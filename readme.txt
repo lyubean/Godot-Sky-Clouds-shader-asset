@@ -1,10 +1,10 @@
 #####
 
 Sky with Clouds asset by Leo Gallatin
-CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
+My code is MIT, reused code licenses are listed below
 
-Godot Clouds asset by Danil S, based on https://www.shadertoy.com/view/XtBXDw (also CC BY-NC-SA 3.0)
-Godot Sky asset by Bastiaan Olij, based on https://github.com/wwwtyro/glsl-atmosphere (Unlicensed/MIT license)
+Godot Clouds asset by Danil S, based on https://www.shadertoy.com/view/XtBXDw ( Godot code MIT / shader code CC BY-NC-SA 3.0)
+Godot Sky asset by Bastiaan Olij, based on https://github.com/wwwtyro/glsl-atmosphere (Shader code Unlicensed / Godot code MIT license / Panorama of Night Sky Copyright of Serge Brunier)
 
 Version 1.0
 Working in Godot 3.2.2 July 20th, 2020
